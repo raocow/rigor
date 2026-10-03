@@ -1,3 +1,13 @@
+> **Moved:** rigor has been merged into [gowork](https://github.com/raocow/gowork)
+> (command `gw`), together with gitplus. This repository is archived.
+>
+> ```bash
+> brew install raocow/tap/gowork
+> gw migrate        # points an existing rigor setup at gowork
+> ```
+>
+> The `rigor` commands keep working there under their old names.
+
 # rigor
 
 Opt-in shell environment helpers for a fresh Mac. Small zsh features you enable
